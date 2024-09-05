@@ -20,6 +20,7 @@ actions:
 -return to town;
 
 ![dragon](./screenshots/dragon.png)
+
 also, there is one mini-game, which is left as an easter egg.
 
 Applied many functions and relearned more about js.
