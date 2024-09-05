@@ -1,7 +1,7 @@
 Recreated web game using html+css+js.
 
 Basically, you have:
-![main-page](./screenshots/cave.png)
+![main-page]('./screenshots/cave.png')
 3 buttons, which alows you to move to different locations.
 locations are: 
 -store;
