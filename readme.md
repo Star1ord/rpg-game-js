@@ -1,7 +1,7 @@
 Recreated web game using html+css+js.
 
 Basically, you have:
-![main-page](./screenshots/main page.png)
+![main-page](./screenshots/main-page.png)
 3 buttons, which alows you to move to different locations.
 locations are: 
 -store;
@@ -9,7 +9,7 @@ locations are:
 -dragon cave;
 
 actions:
-![store](./screenshots/store page.png)
+![store](./screenshots/store-page.png)
 -buy weapon;
 -buy health;
 -sell weapon;
