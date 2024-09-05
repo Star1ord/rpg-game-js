@@ -1,7 +1,7 @@
 Recreated web game using html+css+js.
 
 Basically, you have:
-![main-page](https://github.com/Star1ord/rpg-game-js/raw/6650b4757c0ce94c917b95fff9675a3fb22a3f06/screenshots/main%20page.png)
+![main-page](screenshots/cave.png)
 3 buttons, which alows you to move to different locations.
 locations are: 
 -store;
